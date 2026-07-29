@@ -3,7 +3,7 @@ UI/UX Design Project
 
 Note on design tool: Our interactive prototype was built as a clickable HTML/CSS/JS prototype rather than natively in Figma. It fully replicates the intended screens, user flow, and interactions, and can be tested live at the link below.
 
-Live Interactive Prototype:** https://eventplanning12.netlify.app/
+Live Interactive Prototype: https://eventplanning12.netlify.app/
 
  1. Project Overview
 
