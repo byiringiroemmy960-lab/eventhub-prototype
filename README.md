@@ -1,7 +1,7 @@
 EventHub — Event Booking Web & Mobile Application
 UI/UX Design Project
 
-**Note on design tool:** Our interactive prototype was built as a clickable HTML/CSS/JS prototype rather than natively in Figma. It fully replicates the intended screens, user flow, and interactions, and can be tested live at the link below.
+Note on design tool: Our interactive prototype was built as a clickable HTML/CSS/JS prototype rather than natively in Figma. It fully replicates the intended screens, user flow, and interactions, and can be tested live at the link below.
 
 Live Interactive Prototype:** https://eventplanning12.netlify.app/
 
@@ -56,3 +56,4 @@ eventhub-prototype/
 
 
 To view the working prototype, use the live link above: https://eventplanning12.netlify.app/
+
